@@ -1,6 +1,6 @@
 # Judgement Hall (A 3D Undertale Fan Game - Solo Project)
 
-Developed by:
+Created by:
 
 Marcus Charles
 
