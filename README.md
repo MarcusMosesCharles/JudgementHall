@@ -4,7 +4,7 @@ Created by:
 
 Marcus Charles
 
-**Play the game on Itch.io: https://strainedpixels.itch.io/mists-of-ypres**
+**Play the current version of the game on Itch.io: https://strainedpixels.itch.io/mists-of-ypres**
 
 # About the Game
 
